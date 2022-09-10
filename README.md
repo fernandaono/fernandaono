@@ -8,5 +8,5 @@ You can click the Preview link to take a look at your changes.
   <a href="https://github.com/fernandaono">
   <img align="left" height="302" width="302" src="https://cdn.discordapp.com/attachments/728426419733921853/1017992398405652551/octocat-1662590698271.png">
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandaono&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
-  <img align="right" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandaono&layout=compact&langs_count=7&theme=rose_pine"/>
+  <img align="right" height="215em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandaono&layout=compact&langs_count=7&theme=rose_pine"/>
 </div>
